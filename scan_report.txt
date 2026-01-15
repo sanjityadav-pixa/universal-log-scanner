@@ -1,0 +1,20 @@
+Universal Log Scan Report
+Scan Time: 2026-01-15 13:07:44.382378
+==================================================
+
+
+Scanning file: sample.log
+----------------------------------------
+
+Scanning file: sample.txt
+----------------------------------------
+
+Scanning file: sample.csv
+----------------------------------------
+
+==================================================
+Scan Summary
+Total lines scanned: 0
+Total alerts found: 0
+
+IP Address Activity:
